@@ -30,4 +30,4 @@ Instructions on running automated tests here
 
 ## Questions
 Inquiries? Send them to:
-    * ![Github](https://avatars1.githubusercontent.com/u/12930451?v=4&s=32) {your email}
+    * ![Github](https://avatars1.githubusercontent.com/u/12930451?v=4|width=32px) {your email}
