@@ -6,12 +6,12 @@
 Description of project here
 
 ## Table of Contents
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [License](#license)
-    * [Contributing](#contributing)
-    * [Tests](#tests)
-    * [Questions](#questions)
+[Installation](#installation)
+[Usage](#usage)
+[License](#license)
+[Contributing](#contributing)
+[Tests](#tests)
+[Questions](#questions)
 
 ## Installation
 Installation instructions here
@@ -30,4 +30,4 @@ Instructions on running automated tests here
 
 ## Questions
 Inquiries? Send them to:
-    * ![Github](https://avatars1.githubusercontent.com/u/12930451?v=4|width=32px) {your email}
+![Github](https://avatars1.githubusercontent.com/u/12930451?v=4&s=32) {your email}
