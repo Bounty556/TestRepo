@@ -1,4 +1,4 @@
- ![LastCommit](https://img.shields.io/github/last-commit/Bounty556/TestRepo?style=flat-square) ![CommitActivity](https://img.shields.io/github/commit-activity/m/Bounty556/TestRepo)
+![Language](https://img.shields.io/badge/language-html-blue) ![LastCommit](https://img.shields.io/github/last-commit/Bounty556/TestRepo?style=flat-square) ![CommitActivity](https://img.shields.io/github/commit-activity/m/Bounty556/TestRepo)
 
 # Test Repo
 
