@@ -1,9 +1,9 @@
-![Language](https://img.shields.io/badge/language-javascript-blue) ![LastCommit](https://img.shields.io/github/last-commit/Bounty556/WeatherDashboard?style=flat-square) ![CommitActivity](https://img.shields.io/github/commit-activity/m/Bounty556/WeatherDashboard)
+ ![LastCommit](https://img.shields.io/github/last-commit/Bounty556/TestRepo?style=flat-square) ![CommitActivity](https://img.shields.io/github/commit-activity/m/Bounty556/TestRepo)
 
-# Weather Dashboard
+# Test Repo
 
 ## Description
-Description of project here
+Just a test readme for the Readme Generator tool
 
 ## Table of Contents
     * [Installation](#installation)
